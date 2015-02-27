@@ -88,4 +88,5 @@ figure {
 .cleartext {
   clear: left;
   padding-top: 1em;
+  padding-bottom: 1em;
 }
