@@ -18,3 +18,30 @@ header{
 
 nav li {
     display: inline-block;
+}
+
+p {
+  font-family: 'Merriweather', serif;
+}
+
+h1 {
+  font-weight: normal;
+  font-size: 2rem;
+  font style: normal;
+  font-family: 'Merriweather', serif;
+  color: #ffffff;
+  padding-top:1rem;
+  text-align: center;
+}
+
+.book {
+  float: left;
+  width: 6%;
+  padding-top: 1em;
+}
+
+.something {
+  float: right;
+  width: 6%;
+  padding-top: 1em;
+}
