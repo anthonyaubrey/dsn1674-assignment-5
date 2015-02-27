@@ -5,3 +5,8 @@ html {
 *, *::before, *::after {
   box-sizing: inherit;
 }
+
+.inset {
+  float: left;
+  width: 49%;
+  margin-right: 15px;
