@@ -1,5 +1,6 @@
 html {
   box-sizing: border-box;
+  line-height: 1.25;
 }
 
 *, *::before, *::after {
@@ -8,18 +9,37 @@ html {
 
 .inset {
   float: left;
-  width: 44%;
+  width: 40%;
   margin-right: 15px;
+  padding-top: 1em;
 }
 
-header{
+header {
   background-color: #cd5b34;
+  padding: .25 0 0 0;
+  overflow: hidden;
 }
 
+nav a {
+  color: white;
+  text-decoration: none;
+}
 nav li {
-    display: inline-block;
+  float: left;
+  border: 1px solid #a33f3a;
+  width: 33.33333%;
+  padding: .5em;
 }
 
+ul {
+  list-style-type: none;
+  padding: 0;
+}
+nav {
+  clear: left;
+  text-align: center;
+  padding: 0;
+}
 p {
   font-family: 'Merriweather', serif;
 }
@@ -32,14 +52,19 @@ h1 {
   color: #ffffff;
   padding-top:1rem;
   text-align: center;
+  margin: 0;
 }
 
 .book {
   float: left;
   width: 6%;
   padding-top: 1em;
+  margin: 0 15px 0 0;
 }
 
+figure {
+  margin: 0;
+}
 .something {
   float: right;
   width: 6%;
@@ -48,6 +73,19 @@ h1 {
 
 .hhh {
   float: right;
-  width: 44%;
+  width: 40%;
   margin-left: 15px;
+}
+
+.ddd {
+  float: right;
+  width: 40%;
+  margin-left: 15px;
+  clear: both;
+  padding-top: 1em;
+}
+
+.cleartext {
+  clear: left;
+  padding-top: 1em;
 }
