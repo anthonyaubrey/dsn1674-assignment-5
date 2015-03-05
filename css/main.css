@@ -140,3 +140,15 @@ footer {
   overflow: hidden;
   text-align: center;
 }
+
+.peanuts {
+  width: 25%;
+}
+
+.beans {
+  width: 25%;
+}
+
+.lentils {
+  width: 25%; 
+}
