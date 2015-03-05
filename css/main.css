@@ -117,3 +117,13 @@ h3 {
   margin: 0;
   font-size: 1.5rem;
 }
+
+.rice {
+  width: 50%;
+  float: left;
+}
+
+.oats {
+  width: 50%;
+  float: right;
+}
