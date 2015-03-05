@@ -118,16 +118,36 @@ h3 {
   font-size: 1.5rem;
 }
 
+.corn {
+  width: 100%;
+}
 .rice {
-  width: 50%;
+  width: 100%;
   float: left;
+  padding-bottom: 1em;
 }
 
-.oats {
+.rice2 {
+  float: left;
+  margin: 0;
+  padding: 0;
   width: 50%;
-  float: right;
+  display: inline-block;
+  text-align: center;
+}
+.oats {
+  width: 100%;
 }
 
+.oats2 {
+  float: right;
+  margin: 0;
+  padding: 0;
+  width: 50%;
+  display: inline-block;
+  text-align: center;
+
+}
 ol {
   list-style-type: none;
   padding: 0;
@@ -174,4 +194,10 @@ footer {
 
 .aom {
   float: left;
+}
+
+figcaption {
+  text-align: center;
+  color: #fff;
+  padding: 0.5em 0em 1em 0em
 }
