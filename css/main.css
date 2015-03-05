@@ -132,3 +132,11 @@ ol {
   list-style-type: none;
   padding: 0;
 }
+
+footer {
+  background-color: #cd5b34;
+  padding-top: .75rem;
+  padding-bottom: .75rem;
+  overflow: hidden;
+  text-align: center;
+}
