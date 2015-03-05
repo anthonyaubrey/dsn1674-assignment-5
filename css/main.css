@@ -83,6 +83,7 @@ figure {
   margin-left: 15px;
   clear: both;
   padding-top: 1em;
+  padding-bottom: 1em;
 }
 
 .cleartext {
@@ -100,5 +101,11 @@ h2 {
   padding-top:1rem;
   text-align: center;
   margin: 0;
+}
+
+div {
   background-color: #d98156;
+  clear: both;
+  overflow: hidden;
+  margin: 0;
 }
