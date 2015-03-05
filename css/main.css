@@ -90,3 +90,15 @@ figure {
   padding-top: 1em;
   padding-bottom: 1em;
 }
+
+h2 {
+  font-weight: bold;
+  font-size: 1.5rem;
+  font style: normal;
+  font-family: 'Merriweather', serif;
+  color: #ffffff;
+  padding-top:1rem;
+  text-align: center;
+  margin: 0;
+  background-color: #d98156;
+}
