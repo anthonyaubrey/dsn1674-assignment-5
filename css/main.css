@@ -166,7 +166,7 @@ footer {
 }
 
 .blockt {
-  float: left;
+  float: both;
   display: inline-block;
   margin-top: 1em;
 
