@@ -127,3 +127,8 @@ h3 {
   width: 50%;
   float: right;
 }
+
+ol {
+  list-style-type: none;
+  padding: 0;
+}
